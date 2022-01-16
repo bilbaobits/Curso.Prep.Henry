@@ -1,0 +1,32 @@
+
+HOMEWORK JAVASCRIPT CLASE1
+
+DEFINICIONES CONCEPTOS 
+
+
+    Variables
+    Son palabras o letras a las que asignamos un dato: valor numerico, de texto, una palabra clave entre otros tipos de DATOS.
+    estas variables se usan continuamente en el codigo, en las funciones y en operaciones entre variables por eso no se deben repetir,
+    es decir no podemos poner el mismo nombre a varias variables.
+    
+    
+    Strings
+    Son un tipo de dato unicamente para texto que contiene letras o numeros que serviran para mostrar, modificar y unir frases, palabras, nombres etc
+    
+    
+    Funciones (argumentos, return)
+    Son conjuntos de operaciones e instrucciones, que se pueden usar en cualquier linea de un programa, 
+    asi nos ahorramos reescribir muchas veces el mismo codigo, estas funciones se usan declarando el nombre de la funcion 
+    y asignando los parametros o argumentos, las funciones siempre retornan un valor.
+    
+    
+    Declaraciones if
+    son un tipo de declaracion condicional es decir que valida una condicion para determinar que hacer dentro del codigo, o si terminar la ejecucion
+    
+    
+    
+    
+    Valores booleanos (true, false)
+    los valores booleanos son asignaciones que se le dan a una variable pero que no son numericas ni de texto 
+    asi que solo pueden tener estos dos valores (true o false)
+  
